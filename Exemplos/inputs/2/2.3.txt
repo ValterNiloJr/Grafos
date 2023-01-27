@@ -1,0 +1,12 @@
+11
+Mussum 5 Zacarias Aragao Renato Dede Santana
+Aragao 7 Zacarias Renato Mussum Terezinha Dede Dino Santana
+Renato 8 Dino Xuxa Dede Aragao Mussum Terezinha Santana Conrado
+Dede 9 Xuxa Aragao Mussum Dino Renato Terezinha Conrado Zacarias Santana
+Terezinha 7 Dino Zacarias Dede Aragao Renato Santana Laffond
+Xuxa 5 Dede Renato Dino Santana Zacarias
+Dino 8 Conrado Santana Aragao Renato Terezinha Xuxa Dede Zacarias
+Conrado 4 Renato Dede Dino Santana
+Santana 9 Renato Zacarias Dede Terezinha Aragao Mussum Conrado Xuxa Dino
+Zacarias 7 Dino Xuxa Aragao Dede Terezinha Santana Mussum
+Laffond 1 Terezinha

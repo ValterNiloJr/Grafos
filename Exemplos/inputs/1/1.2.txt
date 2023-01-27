@@ -1,0 +1,5 @@
+4						
+Joao 3 Teresa Lili Maria							
+Maria 1 Teresa
+Teresa 1 Lili
+Lili 0

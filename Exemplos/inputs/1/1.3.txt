@@ -1,0 +1,12 @@
+11
+Joao 5 Zacarias Pedro Renata Lili Santana
+Pedro 7 Zacarias Renata Joao Terezinha Lili Dino Santana
+Renata 8 Dino Xuxa Lili Pedro Joao Terezinha Santana Conrado
+Lili 9 Xuxa Pedro Joao Dino Renata Terezinha Conrado Zacarias Santana
+Terezinha 7 Dino Zacarias Lili Pedro Renata Santana Laffond
+Xuxa 5 Lili Renata Dino Santana Zacarias
+Dino 8 Conrado Santana Pedro Renata Terezinha Xuxa Lili Zacarias
+Conrado 4 Renata Lili Dino Santana
+Santana 9 Renata Zacarias Lili Terezinha Pedro Joao Conrado Xuxa Dino
+Zacarias 7 Dino Xuxa Pedro Lili Terezinha Santana Joao
+Laffond 1 Terezinha

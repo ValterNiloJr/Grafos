@@ -1,0 +1,7 @@
+6
+Joao 3 Teresa Maria Raimundo
+Raimundo 5 Teresa Maria Drummond Joao Xuxa
+Maria 5 Teresa Drummond Joao Raimundo Xuxa
+Teresa 5 Joao Maria Drummond Raimundo Xuxa
+Xuxa 4 Teresa Maria Raimundo Drummond
+Drummond 4 Xuxa Teresa Maria Raimundo

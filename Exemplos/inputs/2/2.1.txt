@@ -1,0 +1,7 @@
+6
+Mussum 3 Didi Dede Zacarias
+Zacarias 5 Didi Dede Macale Mussum Sargento
+Dede 5 Didi Macale Mussum Zacarias Sargento
+Didi 5 Mussum Dede Macale Zacarias Sargento
+Sargento 4 Didi Dede Zacarias Macale
+Macale 4 Sargento Didi Dede Zacarias
